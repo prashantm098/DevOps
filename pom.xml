@@ -5,7 +5,7 @@
 	<artifactId>NETFLIX</artifactId>
 	<packaging>war</packaging>
 	<version>1.2.2</version>
-	<name>Java Home myweb0101</name>
+	<name>Java Home myweb010101</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
